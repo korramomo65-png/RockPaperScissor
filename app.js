@@ -2,7 +2,7 @@
 const gestureBtns = document.querySelectorAll(".gesture-btn");
 const menuBtns = document.querySelectorAll(".menu-btn");
 
-let winningScore = 5;
+let winningScore = 51;
 let p1Score = 0;
 let p2Score = 0;
 
